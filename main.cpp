@@ -3,7 +3,7 @@
 int main(){
 
 
-    std::cout << "Hello CPP" << std::endl;
+    std::cout << "Hello Algorithm" << std::endl;
 
 
     return 0;
